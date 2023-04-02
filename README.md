@@ -12,4 +12,3 @@ At each move, The game will show whose move (Player X or Player O) it is. When t
 Winner: Player X
 Winner: Player O
 Draw!
-[Uploading tictactoescreeshot.png…]()
